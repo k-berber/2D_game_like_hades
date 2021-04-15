@@ -1,0 +1,3 @@
+/home/kirill/Рабочий стол/msu_cmc_cg_2021-master-template1_cpp/template1_cpp/CMakeFiles/rebuild_cache.dir
+/home/kirill/Рабочий стол/msu_cmc_cg_2021-master-template1_cpp/template1_cpp/CMakeFiles/edit_cache.dir
+/home/kirill/Рабочий стол/msu_cmc_cg_2021-master-template1_cpp/template1_cpp/CMakeFiles/main.dir
